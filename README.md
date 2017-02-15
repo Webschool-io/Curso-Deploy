@@ -25,3 +25,6 @@ Durante o curso iremos configurar um servidor do zero, onde teremos:
 ## Grupos de Discussão
 
 - [Telegram](https://t.me/joinchat/AAAAAAsc_XgqNZsjC083rQ)
+
+## Slide
+- [Slide](https://docs.google.com/presentation/d/1MV-9kd6tFDLvSY3n5gclyTB2ZxWaEb05JyFnP5ML7t4/pub?start=true&loop=true&delayms=3000)
